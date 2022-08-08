@@ -15,6 +15,7 @@
     "@faker-js/faker": "7.3.0",
     "@justinwaite/prettier-config": "1.0.0",
     "@types/aws-lambda": "8.10.101",
+    "c8": "7.12.0",
     "prettier": "2.7.1",
     "prisma": "4.1.1",
     "serverless-dotenv-plugin": "4.0.2",
